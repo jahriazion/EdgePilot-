@@ -1,0 +1,36 @@
+# ===== Node.js =====
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnpm-store/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+pip-wheel-metadata/
+*.manifest
+*.spec
+
+# ===== Environment Files =====
+.env
+.env.local
+.env.*.local
+
+# ===== IDE Files =====
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# ===== Build / Output =====
+dist/
+build/
+coverage/
+*.log
