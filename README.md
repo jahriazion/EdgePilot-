@@ -1,6 +1,6 @@
 # EdgePilot – Crypto Bot Application
 
-![Dark UI Screenshot](screenshot-dark-ui.png)
+![Dark UI Screenshot](E59ADBD5-1625-431A-936F-1DB56F5359E2.png)
 
 ## Overview
 EdgePilot is a full-stack cryptocurrency monitoring and alerting application built for real-time BTC and XMR analysis.  
