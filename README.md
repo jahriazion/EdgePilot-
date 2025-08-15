@@ -35,3 +35,4 @@ cp .env.example .env
 
 # Start development server
 npx expo start
+```
